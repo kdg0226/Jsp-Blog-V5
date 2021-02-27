@@ -23,7 +23,7 @@ create database blog;
 
 ## MySQL 테이블 생성
 
-- blogyser 사용자로 접속
+- bloguser 사용자로 접속
 - use blog; 데이터데이스 선택
 
 ```sql
