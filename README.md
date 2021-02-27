@@ -25,7 +25,8 @@ create database blog;
 
 - blogyser 사용자로 접속
 - use blog; 데이터데이스 선택
-```
+
+```sql
 CREATE TABLE user(
 	id int primary key auto_increment,
     username varchar(100) not null unique,
